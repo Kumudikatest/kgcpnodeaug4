@@ -1,0 +1,92 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "7f3d1d96-93a7-4f5e-b369-cd89631c5e50": {
+        "id": "7f3d1d96-93a7-4f5e-b369-cd89631c5e50",
+        "parent": null,
+        "name": "kgcpnodeaug4.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "kgcpnodeaug4.js",
+        "cursor": {
+          "lineNumber": 4,
+          "column": 2
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "name": "kgcpnodeaug4"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "8441cfd3-fff1-48be-9d72-3fc83d6bc767": {
+        "id": "8441cfd3-fff1-48be-9d72-3fc83d6bc767",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "d8f06946-eb0d-4f70-b2d0-3651b75ababc": {
+        "id": "d8f06946-eb0d-4f70-b2d0-3651b75ababc",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "7f3d1d96-93a7-4f5e-b369-cd89631c5e50"
+    ],
+    "currentFileId": "7f3d1d96-93a7-4f5e-b369-cd89631c5e50",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.1.4",
+    "projectName": "kgcpnodeaug4",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1596530510260
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "kgcpnodeaug4",
+      "url": "https://github.com/Kumudikatest/kgcpnodeaug4"
+    }
+  }
+}
